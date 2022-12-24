@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nahashon Mwaura (Shawn)
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Software Engeering and Web Development
 - 🌱 I’m currently learning on open A.I
 - 💞️ I’m looking to collaborate on open projects
 - 📫 How to reach me github n-mwaura/n-mwaura
